@@ -217,6 +217,3 @@ In this project, `TaskGroup` gives tasks a clear lifetime, the semaphore control
 - [Python asyncio synchronization primitives](https://docs.python.org/3/library/asyncio-sync.html)
 - [Python IsolatedAsyncioTestCase](https://docs.python.org/3/library/unittest.html#unittest.IsolatedAsyncioTestCase)
 
----
-
-*Editorial note for the prospective author: This is an AI-assisted draft for technical review and adaptation. Run the tests, verify the behavior, and revise the prose with your own explanations and experience before submitting it as a personal writing sample. Check the publisher's AI-assistance rules.*
